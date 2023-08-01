@@ -1,0 +1,18 @@
+/* Общие теги */
+body {
+    background:
+    url(./img/main-png.png) no-repeat,
+    url(./img/main-line.png) no-repeat,
+    url(./img/main-shadow.png) no-repeat;
+    background-color: #1D4734;
+
+}
+
+.flex {
+    display: flex;
+}
+
+.container {
+    min-width: 1450px;
+    height: 1050px;
+}
